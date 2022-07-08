@@ -1,1 +1,1 @@
-# cherry-ui-web
+# cherry-web
